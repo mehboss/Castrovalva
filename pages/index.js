@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Website Coming Soon" />
         <p className="description">
-          Enjin shut down my website
+          Enjin shut down my website <img src="/websitelogo.png" alt="Netlify Logo" className={styles.logo} />
         </p>
       </main>
 
