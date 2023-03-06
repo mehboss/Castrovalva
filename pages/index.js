@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Website Coming Soon" />
         <p className="description">
-          My website got shut down my website <img src="/favicon.ico" alt="Netlify Logo" className={styles.logo} />
+          My website got shut down <img src="/favicon.ico" alt="Netlify Logo" className={styles.logo} />
         </p>
       </main>
 
